@@ -1,0 +1,21 @@
+[
+    {
+      "UserName": "jake",
+      "FirstName": "Jake",
+      "LastName": "Ford",
+      "Email": "jford.tide@gmail.com",
+      "Phone": "2567593936",
+      "City": "Huntsville",
+      "Country": "USA",
+      "IsActive": true,
+      "DateOfBirth": "1991-12-20",
+      "Created": "2022-02-06",
+      "LastActive": "2022-02-06",
+      "Photos": [
+        {
+          "URL": "https://randomuser.me/api/portraits/women/43.jpg",
+          "IsMain": true
+        }
+      ]
+    }
+  ]

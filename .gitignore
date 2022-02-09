@@ -456,4 +456,5 @@ $RECYCLE.BIN/
 ##Hide important files/api keys
 appsettings.json
 fordware.db
-
+fordware.db-shm
+fordware.db-wal
